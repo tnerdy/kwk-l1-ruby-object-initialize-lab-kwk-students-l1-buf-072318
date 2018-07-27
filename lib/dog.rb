@@ -9,4 +9,4 @@ def initialize(name,breed = "Mutt")
 end
 
 
-fido = Dog.name("fido", "mutt") 
+fido = Dog.new("fido", "mutt") 
