@@ -5,7 +5,7 @@ def intialize(name)
 @name = name
 
 
-fido = Dog name
+fido = Dog.name("fido") 
 
  end
 end
